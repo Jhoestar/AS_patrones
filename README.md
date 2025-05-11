@@ -1,2 +1,2 @@
 # AS_patrones
-patrones de disenio de la matedria Arquitectura de Software
+patrones de disenio de la materia Arquitectura de Software
